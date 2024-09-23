@@ -1,0 +1,4 @@
+pandas==2.2.3
+python-dotenv==1.0.1
+google-api-python-client==2.146.0
+SQLAlchemy==2.0.35
